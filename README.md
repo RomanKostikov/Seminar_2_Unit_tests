@@ -98,7 +98,7 @@ assertThat(cart.getTotalPrice()).isEqualTo(cart.getTotalPrice());
 Задание №11
 Введение в юнит-тестирование
 Предложите способ оптимизировать тестовый класс
-![1](classwork/1.JPG)
+![1](src/main/java/classwork/1.JPG)
 
 ## Homework:
 *Задание 1.
